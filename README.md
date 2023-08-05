@@ -1,4 +1,9 @@
 # CSGO-Round-Win-Predictor
+
+![CSGO](https://github.com/your-username/your-repo/blob/main/images/csgo_screenshot.png)
+
+
+
 # Introduction
 The CS:GO Round Winner Prediction project. Within this repository, an extensive analysis and implementation of round outcome prediction in the popular first-person shooter game Counter-Strike: Global Offensive (CS:GO) are hosted. Machine learning techniques are harnessed to construct precise predictive models, thereby enriching comprehension of in-game dynamics.
 # Setup

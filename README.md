@@ -1,6 +1,6 @@
 # CSGO-Round-Win-Predictor
 
-![CSGO]([https://github.com/your-username/your-repo/blob/main/images/csgo_screenshot.png](https://github.com/Ojas1510/CSGO-Round-Win-Predictor/blob/main/images.jpeg))
+![CSGO](https://github.com/Ojas1510/CSGO-Round-Win-Predictor/blob/main/images.jpeg)
 
 
 

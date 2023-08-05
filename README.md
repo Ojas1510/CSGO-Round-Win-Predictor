@@ -41,3 +41,7 @@ The input layer has 20 neurons, which corresponds to the shape of the input data
 There are three hidden layers with 400, 200, and 200 neurons, respectively. The activation function used in these layers is the Rectified Linear Unit (ReLU), which introduces non-linearity to the model.<br>
 The output layer consists of a single neuron with a sigmoid activation function, which is commonly used for binary classification problems.<br>
 Train the neural network and the evaluate the model<br>
+
+# Conclusion
+Most accurate model found after the anlysis was Random Forest classifier. Beacuse it uses decision trees <br>
+As only 21 features we selected that can affect a round win in CSGO, so a yes no format used by decision trees is highy accurate.

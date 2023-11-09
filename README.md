@@ -48,5 +48,7 @@ The output layer consists of a single neuron with a sigmoid activation function,
 Train the neural network and the evaluate the model<br>
 
 # Conclusion
-Most accurate model found after the anlysis was Random Forest classifier. Beacuse it uses decision trees <br>
-As only 21 features we selected that can affect a round win in CSGO, so a yes no format used by decision trees is highy accurate.
+Most accurate model found after the anlysis was Random Forest classifier with accuracy of 82.22%  Beacuse it uses decision trees <br>
+
+As only 21 features I selected that can affect a round win in CSGO, so a yes no format used by decision trees is highy accurate.
+KNN classifier had accuracy of 77.81% and Neural Network had accuracy of 75.56%.
